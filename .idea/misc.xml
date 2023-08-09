@@ -1,0 +1,35 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/background1.xml" value="0.163" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/background2.xml" value="0.1175" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/background3.xml" value="0.1175" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/round_btn.xml" value="0.163" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/rounded_corner.xml" value="0.1655" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/train_img.xml" value="0.163" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/drawable/train_imgs.xml" value="0.163" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_admin_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_booking_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_intro.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_reservation_page.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_rounded_corner.xml" value="0.1" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_signup_page.xml" value="0.19230769230769232" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_train_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/activity_view_trains.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/row.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/layout/rows.xml" value="0.22" />
+        <entry key="..\:/Users/Syed Mohd Hassan/AndroidStudioProjects/Railway_Reservation/app/src/main/res/menu/profile_menu.xml" value="0.1465811965811966" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

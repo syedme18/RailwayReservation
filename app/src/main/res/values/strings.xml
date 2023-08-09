@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Railway_Reservation</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="railway_reservation">Railway Reservation</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_account">Don\'t have account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="sign_up_button">Sign UP</string>
+    <string name="enter_Username">Enter Username</string>
+    <string name="admin_panel">admin panel</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="select_train">Select Train</string>
+    <string name="textvieww">TextView</string>
+    <string name="todoo">TODO</string>
+    <string name="enter_username1">Enter username</string>
+    <string name="delete">Delete</string>
+    <string name="delete_user">Delete User</string>
+    <string name="show_user_details">Show User Details</string>
+    <string name="access">Access</string>
+    <string name="hey_user">Hey User</string>
+    <string name="textview2">TextView</string>
+    <string name="todo3">TODO</string>
+    <string name="aisehee">aisehee</string>
+    <string name="view_trains">View Trains</string>
+    <string name="todo4">TODO</string>
+    <string name="sign_in2"><![CDATA[Sign IN >]]></string>
+    <string name="recent_bookings">Recent Bookings</string>
+    <string name="book_your_tickets">Book Your Tickets</string>
+    <string name="_2a">2A</string>
+    <string name="todo9">TODO9</string>
+    <string name="enter_seat_number_ex_1_2_3">Enter Seat Number. Ex- 1,2,3</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="_2s">2S</string>
+    <string name="_1ac">1AC</string>
+    <string name="total_seats">total seats</string>
+    <string name="rs">Rs.</string>
+    <string name="textview65">TextView</string>
+
+    <string-array name="trainsname">
+        <item>Duronto Express</item>
+        <item>Shatabdi Express</item>
+        <item>Rajdhani Express</item>
+        <item>Garib Rath Express</item>
+        <item>Jan Shatabdi Express</item>
+        <item>Gatimaan Express</item>
+        <item>Tejas Express</item>
+        <item>Hamsafar Express</item>
+        <item>Maharaja Express</item>
+        <item>Kavi Guru</item>
+        <item>Deccan Odyssey</item>
+    </string-array>
+
+    <string-array name="routs">
+        <item>Mumbai to Nagpur</item>
+        <item>Delhi to Amritsar</item>
+        <item>Dibrugarh to New Delhi</item>
+        <item>Pune to Nagpur</item>
+        <item>Lucknow to Agra</item>
+        <item>Kashmir to Haryana</item>
+        <item>Goa to Mumbai</item>
+        <item>Meerut to Delhi</item>
+        <item>Vishakapatnam to banglore</item>
+        <item>Ranchi to Delhi</item>
+        <item>Lucknow to Meerut</item>
+    </string-array>
+
+
+    <string-array name="dates">
+        <item>23-Dec-2022</item>
+        <item>23-Dec-2022</item>
+        <item>24-Dec-2022</item>
+        <item>24-Dec-2022</item>
+        <item>25-Dec-2022</item>
+        <item>25-Dec-2022</item>
+        <item>26-Dec-2022</item>
+        <item>27-Dec-2022</item>
+        <item>28-Dec-2022</item>
+        <item>29-Dec-2022</item>
+        <item>30-Dec-2022</item>
+    </string-array>
+</resources>
